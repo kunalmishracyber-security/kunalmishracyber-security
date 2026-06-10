@@ -38,20 +38,20 @@ Penetration Testing ,
 Bug Bounty Hunting ,
 OWASP Top 10 ,
 Burp Suite ,
-Network Security
-Linux
-Kali Linux
-Nmap
-Wireshark
-Metasploit
-API Security Testing
-Vulnerability Assessment
-Reconnaissance & Enumeration
-SQL Injection Testing
-Cross-Site Scripting (XSS)
-Authentication & Access Control Testing
-Security Research
-Cybersecurity Mentorship
+Network Security ,
+Linux ,
+Kali Linux ,
+Nmap ,
+Wireshark ,
+Metasploit ,
+API Security Testing ,
+Vulnerability Assessment ,
+Reconnaissance & Enumeration ,
+SQL Injection Testing ,
+Cross-Site Scripting (XSS) ,
+Authentication & Access Control Testing ,
+Security Research ,
+Cybersecurity Mentorship ,
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=kunalmishracyber-security&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
