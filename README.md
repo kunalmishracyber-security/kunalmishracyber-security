@@ -32,12 +32,12 @@ Senior Cybersecurity Trainer Global Institute AI, where I lead training,<br> men
 </div>
 
 # 💻 Tech Stack:
-Web Application Security
-Ethical Hacking
-Penetration Testing
-Bug Bounty Hunting
-OWASP Top 10
-Burp Suite
+Web Application Security ,
+Ethical Hacking ,
+Penetration Testing ,
+Bug Bounty Hunting ,
+OWASP Top 10 ,
+Burp Suite ,
 Network Security
 Linux
 Kali Linux
