@@ -51,7 +51,7 @@ SQL Injection Testing ,
 Cross-Site Scripting (XSS) ,
 Authentication & Access Control Testing ,
 Security Research ,
-Cybersecurity Mentorship ,
+Cybersecurity Mentorship 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=kunalmishracyber-security&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
