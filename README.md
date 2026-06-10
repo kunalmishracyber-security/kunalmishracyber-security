@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm kunal mishra
-**Cybersecurity Professional | Senior Cybersecurity Trainer | Entrepreneur | Content Creator
+**Cybersecurity Professional |  Mentor  | Entrepreneur | Content Creator
 
 Email Me 👉 ✉️ **Kunalmishra.cyber@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -13,6 +13,17 @@ Email Me 👉 ✉️ **Kunalmishra.cyber@gmail.com** For Collaboration/Project o
 - ⚡ **Fun fact:**  I break systems ethically, build communities digitally, and teach others to secure both
 # 💫 About Me:
 Senior Cybersecurity Trainer Global Institute AI, where I lead training,<br> mentorship, and management initiatives while delivering advanced instruction <br>|CEH v13 • OSCP • eJPTv2 • CCNA >  ISO 27001, Red Hat Enterprise Linux, and Kali Linux.<br> Founder @ Podihub & Phazeastro <br>Open-Source Contributor | <br>Building in Cybersecurity, Linux and Security Research
+
+🔐 8+ Years Experience in Cybersecurity  
+🛡️ Web Application Pentesting  
+🐞 Bug Bounty Researcher  
+🎯 One-on-One Mentorship  
+📚 Teaching Ethical Hacking & Web Security  
+
+
+📩 Contact & Socials
+📧 [Kunalmishra.cyber@gmail.com] 🐙 GitHub: github.com/kunalmishracyber-security 📸 Instagram: instagram.com/kunal_techbuilds 💼 LinkedIn: linkedin.com/in/kunal-techbuilds-6a33243b0
+
 
 <!-- Snake Game Repo View -->
 
